@@ -1,0 +1,169 @@
+header {
+	background-color: black;
+	text-align: center;
+	border-radius: 20px;
+	padding: 10px;
+}
+h1 {
+	color: white;
+}
+h2 {
+	padding: 10px;
+}
+article {
+	background-color: lightgrey;
+	padding: 10px;
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: stretch;
+}
+section {
+	border: 2px solid dimgray;
+ 	margin: 20px;
+  	padding: 20px;
+}
+body {
+	padding: 0 20px 20px 20px;
+}
+.p1 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p2 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p3 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p4 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p5 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p6 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p7 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p8 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p9 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.p10 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m1 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m2 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m3 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m4 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m5 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m6 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m7 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m8 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m9 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+.m10 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	line-height: 2.5;
+}
+@media (max-width: 600px) {
+  img {
+    width: 100%;
+    height: auto;
+  }
+  p {
+    font-size: 16px;
+  }
+  header {
+  	background-color: Mediumvioletred;
+	text-align: center;
+  }
+  article {
+	background-color: Lavenderblush;
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: stretch;
+	flex-wrap: wrap;
+}
+}
